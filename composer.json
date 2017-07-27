@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mgp25/instagram-php": "^2.0",
+        "php-ffmpeg/php-ffmpeg": "^0.9.5",
+        "tumblr/tumblr": "^0.3.0",
+        "jublonet/codebird-php": "3.2.0-beta.1"
+    }
+}
